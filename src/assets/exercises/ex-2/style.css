@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+section img {
+    width: 400px;
+    height: auto;
+}
+
+section p {
+    width: 350px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    padding: 20px 20px;
+
+}
+
+footer a {
+    text-decoration: none;
+}
