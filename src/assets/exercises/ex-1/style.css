@@ -1,0 +1,49 @@
+#titulo {
+    color: red;
+}
+
+p {
+    width: 350px;
+    color: blue;
+}
+
+.caixa {
+    width: 400px;
+    padding: 20px 20px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background-color: rgb(204, 204, 204);
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    gap: 30px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    padding: 20px 20px;
+
+}
+
+footer a {
+    text-decoration: none;
+}
