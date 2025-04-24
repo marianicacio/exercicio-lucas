@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(213, 242, 253, 0.844);
+    color: darkblue;
+    font-family: Verdana;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
