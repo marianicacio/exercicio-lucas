@@ -33,7 +33,7 @@ footer {
     align-items: center;
     gap: 60px;
     padding: 20px 20px;
-
+    width: 100%;
 }
 
 footer a {
